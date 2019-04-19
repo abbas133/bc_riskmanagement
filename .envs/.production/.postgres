@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=bc_riskmanagement
+POSTGRES_USER=orkHdOJwSuFuxYAhysqCrhiAtNSVOxIN
+POSTGRES_PASSWORD=t69Fc8hVAc7oa0IgGL3pGHLW8Z8IXrLSTSAktT4hraL3RsF16J1PSegc3K0sgk16
