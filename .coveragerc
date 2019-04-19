@@ -1,0 +1,5 @@
+[run]
+include = bc_riskmanagement/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin

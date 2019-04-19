@@ -1,0 +1,29 @@
+1. A Python file containing the ORM classes for these tables.
+
+2. An entity relationship diagram, which depicts the tables and their relationship to one another. - DONE
+
+3. A well-tested REST API written in Python.
+
+4. If using Django, you must use Django and/or Django REST Framework's Class-Based Views.
+
+5. Create a single page that hits your risk type API endpoint(s) and displays all of the fields to the user in a form. Be sure to display at least one field of each type on the page. Don't worry about submitting the form.
+
+6. Fields should use appropriate widgets based on their type. text fields should display as text boxes, date fields should use date pickers, and so on.
+    Bonus points if you come up with an elegant response for when users click on an unactivated form submit button.
+    Mega bonus points for handling form submission.
+
+7. A deployed version of your project
+    Bonus points if you also orchestrate the launch environment in AWS using CloudFormation.
+    Megabonus points if you host the app in AWS Lambda using Zappa or AWS ECS using AWS Fargate.
+
+8. A GitHub or GitLab repo containing your project. Your repo must contain these three things:
+    A README that explains your approach and deployment method
+    Your code solution to this test
+    The Python file called quiz.py that you used to solve the debugging quiz
+
+9. Adding of these items to your resume's cover letter:
+    The link to the GitHub repo that lists this project
+    The link to the deployed version of your project
+
+10. Uploading of your resume with cover letter in PDF or DOCX format by clicking this link
+(https://britecore.bamboohr.com/jobs/view.php?id=9)
